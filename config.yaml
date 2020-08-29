@@ -1,0 +1,6 @@
+env: beta
+
+beta:
+  region: 'us-east-1'
+  service: 'execute-api'
+  LOG_PATH: /log
